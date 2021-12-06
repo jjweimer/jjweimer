@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a senior at the University of California San Diego majoring in Political Science with a specialization in Data Analytics. I enjoy using quantitative methods to solve social science problems, and aspire to have a career in data science or national security.
+I’m a senior at the University of California San Diego majoring in Political Science / Data Analytics. I enjoy using quantitative methods to solve social science problems, and aspire to have a career in data science or national security.
 
 Here are a few things I've worked on:
 - Built Synthetic Models of Afghanistan to better understand the effects of U.S. Intervention
