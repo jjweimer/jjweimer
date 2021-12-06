@@ -2,7 +2,10 @@
 
 I’m a senior at the University of California San Diego majoring in Political Science with a specialization in Data Analytics. I enjoy using quantitative methods to solve social science problems, and aspire to have a career in data science or national security.
 
-
+Here are a few things I've worked on:
+- Built Synthetic Models of Afghanistan to better understand the effects of U.S. Intervention
+- Competed in Rubik's Cube competitions and reached a rating of 11th in the world
+- Forecasted prices of stocks like AAPL, TSLA, and GME
 
 <!--
 **jjweimer/jjweimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
