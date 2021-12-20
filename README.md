@@ -3,10 +3,9 @@
 I’m a senior at the University of California San Diego majoring in Political Science / Data Analytics. I enjoy using quantitative methods to solve social science problems, and aspire to have a career in data science or national security.
 
 Here are a few things I've worked on:
-- Built Synthetic Models of Afghanistan to better understand the effects of U.S. Intervention
+- Built Synthetic Models of Afghanistan to understand the effects of U.S. Intervention on Afghan health
 - Forecasted prices of stocks like AAPL, TSLA, and GME
-- Competed in Rubik's Cube competitions and achieved a rating of 11th in the world
-
+- Competed in Rubik's Cube competitions and achieved a ranking of 11th in the world
 
 You can learn more about me at [my website](https://www.joshweimer.com/) or connect with me [on LinkedIn](https://www.linkedin.com/in/josh-weimer/)!
 
