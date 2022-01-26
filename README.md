@@ -4,7 +4,7 @@ I’m a senior at the University of California San Diego majoring in Political S
 
 Here are a few things I've worked on:
 - Built Synthetic Models of Afghanistan to understand the effects of U.S. Intervention on Afghan health
-- Forecasted prices of stocks and cryptocurrencies using ARIMA and Prophet models
+- Developed an App for the UCSD Data & GIS Lab which automates cleaning and visualization of library services data
 - Visualized data from over 1600 of my chess games to create actionable insights
 - Competed in Rubik's Cube competitions and achieved a ranking of 11th in the world
 
